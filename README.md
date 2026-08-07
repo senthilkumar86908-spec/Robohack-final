@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ROBOHACK — Registration MERN Project
 
 Registration site for ROBOHACK (Mailam Engineering College EEE Robotics Club).
@@ -148,3 +149,6 @@ npm run resync-sheet
 `members` is always an array of up to 3 `{ name, email, phone }` objects
 (empty ones are filtered out client-side, and empty strings are accepted
 server-side for teammates that were left blank).
+=======
+# Robohack-Final
+>>>>>>> 14877478b9603b71e112d52240ef5afc1b4d1606
